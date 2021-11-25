@@ -218,4 +218,5 @@ echo $green "     TTTTTTTTT         "$yellow "EEEEEEEEEEEEEEEEEEEE"$green "     
 echo $green "     TTTTTTTTT         "$yellow "EEEEEEEEE"           $green "           TTTTTTTTTT          "$white    "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
 echo $green "     TTTTTTTTT         "$yellow "EEEEEEEEEEEEEEEEEEE"                                         $white    "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
 echo $green "     TTTTTTTTT         "$yellow "EEEEEEEEEEEEEEEEEEE"
+exit
 fi
