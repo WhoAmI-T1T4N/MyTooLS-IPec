@@ -37,7 +37,7 @@ if [ $user = "admin" ]
    sleep 0.1
 fi
 #passwordnya sobb
-if [ $pass = "PokeDiger1" ]
+if [ $pass = "SubscribeTitan" ]
    then
    echo $red "#####################"
    echo $red "##"$yellow "Password Succes"$red "##"
@@ -106,10 +106,12 @@ then
    sh Tools-4J4X.sh
 fi
 if [ $keju = 3 ]
+then
   wget https://raw.githubusercontent.com/BLACK-PHANTOM-CYBER/DDOS-BPC/master/SPOONDDOS.py
    python2 SPOONDDOS.py
 fi
 if [ $keju = 4 ]
+then
   wget https://raw.githubusercontent.com/Ranginang67/DarkFly-Tool/master/install.py
    python2 install.py
      darkfly
