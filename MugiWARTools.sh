@@ -33,7 +33,7 @@ if [ $user = "admin" ]
    echo $black "##"$red "Username Failedd"$black "##"
    echo $black "####################"
    sleep 3
-   sh Jeder.sh
+   sh MugiWARTools.sh
    sleep 0.1
 fi
 #passwordnya sobb
@@ -48,7 +48,7 @@ if [ $pass = "TitanLegend" ]
    echo $red "##"$black "Yah Salah Dehhhh"$red "##"
    echo $red "######################"
    sleep 3
-      sh Jeder.sh
+      sh MugiWARTools.sh
    sleep 0.1
 fi
 clear
