@@ -34,3 +34,9 @@ sh MugiWARTools.sh
 • [My YouTube](https://youtube.com/channel/UCknul3obKXl_tjx0KY3KIDQ)
 
 • [My Instagram](https://instagram/xd.f0rce/)
+
+• [My GitHub Official](https://github.com/WhoAmI-T1T4N/)
+
+```
+Coppyright © by Mugiwara BlackHat
+```
