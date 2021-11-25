@@ -11,9 +11,9 @@ yellow='\033[33;1m'
 
 #regis dulu
 clear
-echo $green "###############"
-echo $green "##           ##"
-echo $green "###############"
+echo $green "####################################"
+echo $green "## https://bit.ly/DariSiniWebNya ##"
+echo $green "####################################"
 echo $red "Utamakan Subscribe, T1T4N TZY"
 echo $red "Passwordnya Dan Usernamenya Ada Di Atas"
     echo $yellow "Usernamenya Apa??"
@@ -37,7 +37,7 @@ if [ $user = "admin" ]
    sleep 0.1
 fi
 #passwordnya sobb
-if [ $pass = "SubscribeTitan" ]
+if [ $pass = "TitanLegend" ]
    then
    echo $red "#####################"
    echo $red "##"$yellow "Password Succes"$red "##"
