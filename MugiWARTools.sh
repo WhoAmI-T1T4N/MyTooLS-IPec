@@ -164,7 +164,7 @@ fi
 if [ $keju = 14 ]
 then
   wget https://raw.githubusercontent.com/4L13199/LITESPAM/master/LITESPAM.sh
-    bash LITESPAMM.sh
+    bash LITESPAM.sh
 fi
 if [ $keju = 15 ]
 then
@@ -206,7 +206,7 @@ fi
 if [ $keju = 22 ]
 then
   wget https://raw.githubusercontent.com/MrTamfanX/PulsanyaMrTamfan/master/PulsaOmTamfan.sh
-    sh PulsaOmTamfan
+    sh PulsaOmTamfan.sh
 fi
 if [ $keju = 99 ]
 then
